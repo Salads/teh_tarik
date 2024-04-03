@@ -8,3 +8,7 @@ phase2_example/target
 phase3/target
 phase4/target
 legacy/
+*.o
+*.bin
+*/target/*
+.vs/*
